@@ -1,6 +1,6 @@
 # ShrinkForge
 
-Shorten URLs & earn money monetize your social traffic.  
+Shorten URLs & earn money monetize your traffic.  
 Fast redirects • Clean pages • Daily/Weekly payouts via PayPal/Payoneer/Bank/Crypto.
 
 [Website](https://shrinkforge.com) • [Payout Rates](https://shrinkforge.com/payout-rates/) • [FAQ](https://shrinkforge.com/pages/faq/)
